@@ -3,7 +3,8 @@ name = "eggi"
 version = "0.0.0"
 description = "test"
 dependencies = [
-    "Flask >= 3.0.0"
+    "Flask >= 3.0.0",
+    "Flask-SQLAlchemy >= 3.1.1"
 ]
 
 [build-system]
